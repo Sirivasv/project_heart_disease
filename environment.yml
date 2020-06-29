@@ -1,0 +1,12 @@
+name: ztmwindows
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+prefix: C:\Users\sauli\.conda\envs\ztmwindows
+
